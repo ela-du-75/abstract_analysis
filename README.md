@@ -1,4 +1,4 @@
-# abstract\_analysis
+# Analysis of abstract
 
 This Python project scrapes and analyzes academic article abstracts by extracting linguistic statistics, affiliation information, and generating visualizations. It is designed to help researchers compare readability of abstracts on a wanted period.
 
