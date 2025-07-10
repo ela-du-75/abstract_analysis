@@ -17,29 +17,47 @@ An example of its usage is the paper I wrote that can be found in annex.
 ```
 ABSTRACT_ANALYSIS/
 ├── annexes/
-├── annexes/
-│   └── graphs/
+│   └── creation_list/
+│       ├── creation_list.py
+│       ├── db_first_10000.xlsx
+│       ├── Nber_non_selected_words.xlsx
+│       ├── Nber_times_keywords.xlsx
+│       ├── titles_found.xlsx
+│       └── titles_not_found.xlsx
+├── paper/
+│   └── ChatGPT_report.pdf
 ├── data/
+│   ├── ling_web.dta
+│   ├── v1.67-2025-06-24-ror-data_schema.xlsx
+│   └── v1.67-2025-06-24-ror-data.xlsx
 ├── outputs/
 │   ├── graphs/
 │   │   ├── all_papers/
 │   │   │   ├── monthly_average_all_metrics.png
-│   │   │   ├── monthly_average_automated_reading.png
 │   │   │   ├── ...
 │   │   │   └── monthly_average_ttr.png
 │   │   └── by_cle/
-│   │   │   ├── comparaison_monthly_average_automated_reading.png
-│   │   │   ├── ...
-│   │   │   └── comparaison_monthly_average_ttr.png
-│   ├── aff_1_author.csv
-│   ├── affiliations_not_found_word_count.csv
+│   │       ├── comparison_monthly_average_automated_reading.png
+│   │       ├── ...
+│   │       └── comparison_monthly_average_ttr.png
+│   ├── aff_1_author.xlsx
+│   ├── affiliations_not_found_word_count.xlsx
 │   ├── analysis_all_papers.xlsx
 │   ├── analysis_by_cle.xlsx
-│   ├── computations.csv
-│   └── db_info_abstract.csv
+│   ├── computations.xlsx
+│   └── db_info_abstract.xlsx
 ├── scripts/
+│   ├── __pycache__/
+│   ├── aff_1_author.py
+│   ├── analysis.py
+│   ├── computations.py
+│   └── info_abstract.py
 ├── main.py
+├── .gitignore
+├── README.md
 └── requirements.txt
+![image](https://github.com/user-attachments/assets/b57b0dc6-614e-4cc8-96de-597eb641973c)
+
 ```
 
 ## Installation
