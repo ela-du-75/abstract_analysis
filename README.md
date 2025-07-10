@@ -117,4 +117,5 @@ You may need to download NLTK resources if prompted (e.g., `punkt` tokenizer).
 * The inputs are to be written in the `main.py`
 * Graphs and statistics are automatically saved in the `outputs/` folder.
 * File paths or variable names in the scripts might need to be adjusted.
+* The website where the absracts are found is https://www.ssrn.com/index.cfm/en/
 
