@@ -17,6 +17,7 @@ An example of its usage is the paper I wrote that can be found in annex.
 ```
 ABSTRACT_ANALYSIS/
 ├── annexes/
+│   ├── ChatGPT_report.pdf
 │   └── creation_list/
 │       ├── creation_list.py
 │       ├── db_first_10000.xlsx
@@ -24,8 +25,6 @@ ABSTRACT_ANALYSIS/
 │       ├── Nber_times_keywords.xlsx
 │       ├── titles_found.xlsx
 │       └── titles_not_found.xlsx
-├── paper/
-│   └── ChatGPT_report.pdf
 ├── data/
 │   ├── ling_web.dta
 │   ├── v1.67-2025-06-24-ror-data_schema.xlsx
