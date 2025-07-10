@@ -56,8 +56,6 @@ ABSTRACT_ANALYSIS/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-![image](https://github.com/user-attachments/assets/b57b0dc6-614e-4cc8-96de-597eb641973c)
-
 ```
 
 ## Installation
